@@ -1,0 +1,6 @@
+name: GTP
+version: 1.0.0
+api: ["2.0.0"]
+main: GAD\GTP
+author: GAD(QQ:2296342883)
+#Building 这个项目为PocketMine-GAD(百度贴吧@虈兏縈飓)开发并发展，未经原作者许可，禁止转载
