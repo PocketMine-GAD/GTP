@@ -2,4 +2,5 @@
 Testing
 #lol
 QQ:2296342883
-haha
+chinese version
+English version coming soon!
